@@ -121,5 +121,5 @@ DB_PASSWORD=yourpassword
 ---
 
 ## Contact
-For any issues, contact `tmganthan@gmail.com`
+For any issues, contact `santoshskv2005@gmail.com`
 
